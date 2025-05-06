@@ -29,7 +29,6 @@ Tired of watching 30-minute YouTube videos for just 2 minutes of useful content?
 ```bash
 git clone https://github.com/yourusername/YouTube-Summariser.git
 cd YouTube-Summariser
-pip install -r requirements.txt
 ```
 
 ---
